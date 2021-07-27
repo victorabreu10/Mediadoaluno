@@ -1,0 +1,13 @@
+C:\src\exercicios\ExerciciosdeRepeticao\ExerciciosdeRepeticao\bin\Debug\netcoreapp3.1\ExerciciosdeRepeticao.exe
+C:\src\exercicios\ExerciciosdeRepeticao\ExerciciosdeRepeticao\bin\Debug\netcoreapp3.1\ExerciciosdeRepeticao.deps.json
+C:\src\exercicios\ExerciciosdeRepeticao\ExerciciosdeRepeticao\bin\Debug\netcoreapp3.1\ExerciciosdeRepeticao.runtimeconfig.json
+C:\src\exercicios\ExerciciosdeRepeticao\ExerciciosdeRepeticao\bin\Debug\netcoreapp3.1\ExerciciosdeRepeticao.runtimeconfig.dev.json
+C:\src\exercicios\ExerciciosdeRepeticao\ExerciciosdeRepeticao\bin\Debug\netcoreapp3.1\ExerciciosdeRepeticao.dll
+C:\src\exercicios\ExerciciosdeRepeticao\ExerciciosdeRepeticao\bin\Debug\netcoreapp3.1\ExerciciosdeRepeticao.pdb
+C:\src\exercicios\ExerciciosdeRepeticao\ExerciciosdeRepeticao\obj\Debug\netcoreapp3.1\ExerciciosdeRepeticao.csprojAssemblyReference.cache
+C:\src\exercicios\ExerciciosdeRepeticao\ExerciciosdeRepeticao\obj\Debug\netcoreapp3.1\ExerciciosdeRepeticao.AssemblyInfoInputs.cache
+C:\src\exercicios\ExerciciosdeRepeticao\ExerciciosdeRepeticao\obj\Debug\netcoreapp3.1\ExerciciosdeRepeticao.AssemblyInfo.cs
+C:\src\exercicios\ExerciciosdeRepeticao\ExerciciosdeRepeticao\obj\Debug\netcoreapp3.1\ExerciciosdeRepeticao.csproj.CoreCompileInputs.cache
+C:\src\exercicios\ExerciciosdeRepeticao\ExerciciosdeRepeticao\obj\Debug\netcoreapp3.1\ExerciciosdeRepeticao.dll
+C:\src\exercicios\ExerciciosdeRepeticao\ExerciciosdeRepeticao\obj\Debug\netcoreapp3.1\ExerciciosdeRepeticao.pdb
+C:\src\exercicios\ExerciciosdeRepeticao\ExerciciosdeRepeticao\obj\Debug\netcoreapp3.1\ExerciciosdeRepeticao.genruntimeconfig.cache
